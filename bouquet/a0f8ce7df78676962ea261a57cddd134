@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"maptoch": true,
+	"mapopt": [
+		"mapradio",
+		"encrypted"
+	],
+	"chtag": [
+		"bouquet_tag"
+	],
+	"chtag_ref": "",
+	"name": "CANAL+ R9 SUISSE",
+	"ssl_peer_verify": false,
+	"ext_url_period": 60,
+	"source": "dvb-bouquet://dvbs,19.2E,0448,C007",
+	"services": {
+	},
+	"services_seen": 67,
+	"comment": "12324V in Astra",
+	"lcn_off": 0
+}

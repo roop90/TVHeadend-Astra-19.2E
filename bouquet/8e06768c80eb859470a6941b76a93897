@@ -1,0 +1,21 @@
+{
+	"enabled": false,
+	"maptoch": true,
+	"mapopt": [
+		"mapradio",
+		"encrypted"
+	],
+	"chtag": [
+		"bouquet_tag"
+	],
+	"chtag_ref": "",
+	"name": "ZDFvision",
+	"ssl_peer_verify": false,
+	"ext_url_period": 60,
+	"source": "dvb-bouquet://dvbs,19.2E,0437,1080",
+	"services": {
+	},
+	"services_seen": 18,
+	"comment": "11953.5H in Astra",
+	"lcn_off": 0
+}
