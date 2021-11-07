@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/zdfinfohd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"93af15ede1d98f0e39e1c556cbfa6922"
+	],
+	"tags": [
+		"7bd7da187a094684be9dac328e7c8644",
+		"95a7c09cb53e5bf1b7a97bf419cec0a7",
+		"cb66869291ded797764923f52b76f17b"
+	],
+	"bouquet": ""
+}
