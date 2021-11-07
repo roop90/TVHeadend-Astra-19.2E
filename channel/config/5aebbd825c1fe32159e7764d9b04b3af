@@ -1,0 +1,15 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/sat1.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"6ce92394435629cf44e4b7d5b1329ba9"
+	],
+	"tags": [
+	],
+	"bouquet": ""
+}
