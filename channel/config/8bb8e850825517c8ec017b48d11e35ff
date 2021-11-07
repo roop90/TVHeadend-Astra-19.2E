@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"number": 0,
+	"icon": "file:///picons/daserstehd.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"6eaba292988da8af2e930053ef934584"
+	],
+	"tags": [
+		"95a7c09cb53e5bf1b7a97bf419cec0a7",
+		"cb66869291ded797764923f52b76f17b",
+		"7bd7da187a094684be9dac328e7c8644"
+	],
+	"bouquet": ""
+}
